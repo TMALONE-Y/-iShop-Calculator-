@@ -1,7 +1,7 @@
 # 🛒 iShop Calculator & Data Entry Tool
 
 <p align="center">
-  <img src="ishopcalculator.png" width="200" style="border-radius: 50%;" alt="Yazan Logo">
+  <img src="ishopcalculator.png" width="600" style="border-radius: 20px;" alt="Yazan Logo">
 </p>
 
 <p align="center">
